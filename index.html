@@ -1,58 +1,33 @@
-
 <!DOCTYPE html>
 <html>
 <head>
-    <title>My Portfolio</title>
+  <title>Fake Job Detector</title>
+  <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
 
-    <!-- Name -->
-    <h1>Shthirika V</h1>
-    <p>fullstack Developer | Fresher</p>
+  <div class="container">
 
-    <!-- About Me -->
-    <h2>About Me</h2>
-    <p>
-        I am a passionate web developer interested in building websites 
-        and learning new technologies.
-    </p>
+    <h1>Fake Job Detector</h1>
 
-    <!-- Skills -->
-    <h2>Skills</h2>
-    <ul>
-        <li>HTML</li>
-        <li>CSS</li>
-        <li>JavaScript</li>
-        <li>Java</li>
-    </ul>
+    <textarea id="jobText" placeholder="Paste job description here..."></textarea>
 
-    <!-- Projects -->
-    <h2>Projects</h2>
-    <ul>
-        <li>webpage creation</li>
-        <li>Portfolio Website</li>
-    </ul>
+    <button onclick="checkJob()">Analyze</button>
 
-    <!-- Education -->
-    <h2>Education</h2>
-    <p>Bachelor Degree / peri college of arts and science</p>
+    <div id="loading" style="display:none;">
+      <p>Analyzing job post...</p>
+    </div>
 
-    <!-- Contact -->
-    <h2>Contact</h2>
-    <p>Email:shthirikashthirika@gmail.com</p>
-    
+    <div id="result"></div>
+
+    <div class="score-box">
+      <div id="scoreText">0%</div>
+    </div>
+
+  </div> <!-- ✅ THIS WAS MISSING -->
+
+  <script src="script.js"></script>
 
 </body>
-</html>           
-          
-
-        
-           
-            
-       
-
-           
-               
-       
-               
-                     
+</html>
