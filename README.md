@@ -1,4 +1,26 @@
-# 🧠 Fake Job Detector Project
+# Hi 👋 I'm SHTHIRIKA V
+
+💻 Aspiring Java Developer | Frontend Enthusiast  
+🎯 Focused on building real-world projects  
+📍 From Chennai  
+
+---
+
+## 🚀 Skills
+- HTML, CSS, JavaScript  
+- Java (Basics to Intermediate)  
+- Git & GitHub  
+
+---
+
+## 📌 Projects
+- 🧠 Fake Job Detector (GitHub Pages Live)  
+- 💼 Personal Portfolio Website  
+
+---
+
+## 📫 Contact
+Email: shthirikashthirika@gmail.com🧠 Fake Job Detector Project
 
 A web-based project that helps users identify whether a job posting is **real or fake** using simple rule-based logic and keyword analysis.
 
