@@ -5,7 +5,7 @@ A web-based project that helps users identify whether a job posting is **real or
 ---
 
 ## 🌐 Live Demo
-👉 https://your-username.github.io/your-repo-name/
+👉  https://shthirikashthirika.github.io/Digital-portfolio/
 
 ---
 
@@ -49,8 +49,7 @@ Fake job postings are increasing on online platforms. This project aims to help 
 ## 👨‍💻 Author
     Shthirika V 
 📧 Email: shthirikashthirika@gmail.com 
-🌐 Portfolio: https://your-portfolio-link.com  
-
+🌐 Portfolio: https://shthirikashthirika.github.io/Digital-portfolio/
 ---
 
 ## ⭐ Show Your Support
