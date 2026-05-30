@@ -1,4 +1,4 @@
-# Hi 👋 I'm SHTHIRIKA V
+# Hi 👋 I'm Shthirika V
 
 💻 Aspiring Java Developer | Frontend Enthusiast  
 🎯 Focused on building real-world projects  
